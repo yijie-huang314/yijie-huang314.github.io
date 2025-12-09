@@ -10,15 +10,15 @@ author_profile: true
 Preprints
 ======
 
-[11]  Continuous-time reinforcement learning for optimal switching over multiple regimes. (with Mengge Li, Xiang Yu and Zhou Zhou)
+[11]  **Continuous-time reinforcement learning for optimal switching over multiple regimes.** (with Mengge Li, Xiang Yu and Zhou Zhou)
 
 Submitted, 2025. [[ArXiv](https://www.arxiv.org/abs/2512.04697)]
 
-[10]  Continuous-time q-learning for jump-diffusion models under Tsallis entropy. (with Lijun Bo, Xiang Yu and Tingting Zhang)
+[10]  **Continuous-time q-learning for jump-diffusion models under Tsallis entropy.** (with Lijun Bo, Xiang Yu and Tingting Zhang)
 
 Submitted, 2024. [[ArXiv](https://www.arxiv.org/abs/:2407.03888)]
 
-[9]  Mean field game of optimal tracking portfolio. (with Lijun Bo and Xiang Yu)
+[9]  **Mean field game of optimal tracking portfolio.** (with Lijun Bo and Xiang Yu)
 
 Reject and Resubmit with ***IEEE Transactions on Automatic Control***, 2025. [[ArXiv](https://www.arxiv.org/abs/::2505.01858)]
 
