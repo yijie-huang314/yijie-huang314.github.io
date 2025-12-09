@@ -42,8 +42,8 @@ Journal Publications
 [3]  **Stochastic control problems with state-reflections arising from relaxed benchmark tracking.** (with Lijun Bo and Xiang Yu)
 ***Mathematics of Operations Research***,  50(4): 2526-2551. 2025.   [[Article](https://pubsonline.informs.org/doi/10.1287/moor.2023.0265)] [[ArXiv](https://www.arxiv.org/abs/2302.08302)]
 
-[2]  **A decomposition-homogenization method for Robin boundary problems on the nonnegative orthant.** (with Lijun Bo and Xiang Yu)
-***Electronic Journal of Probability***,  29: 1-25, 2024.   [[Article](https://projecteuclid.org/journals/electronic-journal-of-probability/volume-29/issue-none/A-decomposition-homogenization-method-for-Robin-boundary-problems-on-the/10.1214/24-EJP1260.full)] [[ArXiv](https://www.arxiv.org/abs/2306.08312)]
+[2]  [A decomposition-homogenization method for Robin boundary problems on the nonnegative orthant.(https://projecteuclid.org/journals/electronic-journal-of-probability/volume-29/issue-none/A-decomposition-homogenization-method-for-Robin-boundary-problems-on-the/10.1214/24-EJP1260.full)] (with Lijun Bo and Xiang Yu)
+***Electronic Journal of Probability***,  29: 1-25, 2024.   [[ArXiv](https://www.arxiv.org/abs/2306.08312)]
 
-[1] **Dynamic pricing with surging demand**. (with Lijun Bo)
-***CSIAM Transactions on Applied Mathematics***,  5(1): 142-181, 2024.   [[Article](https://global-sci.com/index.php/csiam-am/article/view/7853)] 
+[1] [Dynamic pricing with surging demand(https://global-sci.com/index.php/csiam-am/article/view/7853)]. (with Lijun Bo)
+***CSIAM Transactions on Applied Mathematics***,  5(1): 142-181, 2024. 
