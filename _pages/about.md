@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-======
+
 I am a postdoctral fellow in the Department of Applied Mathematics at The Hong Kong Polytechnic University, under the supervision of Prof. [Xiang Yu](https://sites.google.com/site/xiangyuama/home). 
 
 I obtained my Ph.D. in math from University of Science and Technology of China in June 2025, supervised by Prof. [Lijun Bo](https://bolijun.github.io/research.html).
