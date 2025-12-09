@@ -27,20 +27,20 @@ Journal Publications
 ======
 
 [7]  **Optimal consumption under relaxed benchmark tracking and consumption drawdown constraint.** (with Lijun Bo, Kaixin Yan and Xiang Yu)
-***SIAM Journal on Financial Mathematics***,  forthcoming,  2025.   [Article] [[ArXiv](https://www.arxiv.org/abs/2410.16611)]
+***SIAM Journal on Financial Mathematics***,  forthcoming,  2025.  [[ArXiv](https://www.arxiv.org/abs/2410.16611)]
 
-[6]  **An extended Merton problem with relaxed benchmark tracking.** (with Lijun Bo and Xiang Yu)
-***Mathematical Finance***, online first,  2025.   [[Article](https://onlinelibrary.wiley.com/doi/10.1111/mafi.70015)] [[ArXiv](https://www.arxiv.org/abs/2304.10802)]
+[6]  [An extended Merton problem with relaxed benchmark tracking.](https://onlinelibrary.wiley.com/doi/10.1111/mafi.70015) (with Lijun Bo and Xiang Yu)
+***Mathematical Finance***, online first,  2025.    [[ArXiv](https://www.arxiv.org/abs/2304.10802)]
 
 
-[5]  **Optimal inventory control with state dependent jumps.** (with Lijun Bo)
-***Advances in Applied Probability***,  57(4): 1360-1391,  2025.   [[Article](https://www.cambridge.org/core/journals/advances-in-applied-probability/article/abs/optimal-inventory-control-with-statedependent-jumps/DDA24724F437DFA641DD6EFC01759919)] 
+[5]  [Optimal inventory control with state dependent jumps.](https://www.cambridge.org/core/journals/advances-in-applied-probability/article/abs/optimal-inventory-control-with-statedependent-jumps/DDA24724F437DFA641DD6EFC01759919) (with Lijun Bo)
+***Advances in Applied Probability***,  57(4): 1360-1391,  2025.   
 
-[4]  **On optimal tracking portfolio in incomplete markets: The reinforcement learning approach.** (with Lijun Bo and Xiang Yu)
-***SIAM Journal on Control and Optimization***,  63(1): 321-348,  2025.   [[Article](https://epubs.siam.org/doi/abs/10.1137/23M1620892?journalCode=sjcodc)] [[ArXiv](https://www.arxiv.org/abs/2311.14318)]
+[4]  [On optimal tracking portfolio in incomplete markets: The reinforcement learning approach.](https://epubs.siam.org/doi/abs/10.1137/23M1620892?journalCode=sjcodc) (with Lijun Bo and Xiang Yu)
+***SIAM Journal on Control and Optimization***,  63(1): 321-348,  2025.   [[ArXiv](https://www.arxiv.org/abs/2311.14318)]
 
-[3]  **Stochastic control problems with state-reflections arising from relaxed benchmark tracking.** (with Lijun Bo and Xiang Yu)
-***Mathematics of Operations Research***,  50(4): 2526-2551. 2025.   [[Article](https://pubsonline.informs.org/doi/10.1287/moor.2023.0265)] [[ArXiv](https://www.arxiv.org/abs/2302.08302)]
+[3]  [Stochastic control problems with state-reflections arising from relaxed benchmark tracking.](https://pubsonline.informs.org/doi/10.1287/moor.2023.0265) (with Lijun Bo and Xiang Yu)
+***Mathematics of Operations Research***,  50(4): 2526-2551. 2025.  [[ArXiv](https://www.arxiv.org/abs/2302.08302)]
 
 [2]  [A decomposition-homogenization method for Robin boundary problems on the nonnegative orthant.](https://projecteuclid.org/journals/electronic-journal-of-probability/volume-29/issue-none/A-decomposition-homogenization-method-for-Robin-boundary-problems-on-the/10.1214/24-EJP1260.full) (with Lijun Bo and Xiang Yu)
 ***Electronic Journal of Probability***,  29: 1-25, 2024.   [[ArXiv](https://www.arxiv.org/abs/2306.08312)]
