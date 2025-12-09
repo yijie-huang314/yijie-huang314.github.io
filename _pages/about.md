@@ -27,7 +27,7 @@ Contact
 ======
 Address: VA334, Department of Applied Mathematics, The Hong Kong Polytechnic University, Kowloon, Hong Kong.
 
-Email: yijie.huang@polyu.edu.hk
+Email: "yijie.huang@polyu.edu.hk"
 
 Tel: (+852) 5915 7326
 
