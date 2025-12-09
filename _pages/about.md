@@ -8,7 +8,6 @@ redirect_from:
 - /about.html
 ---
 
-About me
 ======
 I am a postdoctral fellow in the Department of Applied Mathematics at The Hong Kong Polytechnic University, under the supervision of Prof. [Xiang Yu](https://sites.google.com/site/xiangyuama/home). 
 
