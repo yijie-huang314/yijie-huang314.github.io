@@ -22,7 +22,7 @@ Submitted, 2024. [[ArXiv](https://www.arxiv.org/abs/:2407.03888)]
 
 Reject and Resubmit with ***IEEE Transactions on Automatic Control***, 2025. [[ArXiv](https://www.arxiv.org/abs/::2505.01858)]
 
-[8]  Optimal consumption under adjustment costs with respect to multiple reference levels. (with Kaixin Yan and Qinyi Zhang)
+[8]  **Optimal consumption under adjustment costs with respect to multiple reference levels.** (with Kaixin Yan and Qinyi Zhang)
 
 Major revision with  ***Mathematics and Financial Economics***, 2025. [[ArXiv](https://www.arxiv.org/abs/:2503.18443)]
 
