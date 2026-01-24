@@ -52,8 +52,9 @@ Journal Publications
 **[1]** [Dynamic pricing with surging demand.](https://global-sci.com/index.php/csiam-am/article/view/7853) (with Lijun Bo)
 ***CSIAM Transactions on Applied Mathematics***,  5(1): 142-181, 2024. 
 
-Research Presentations
+Research Presentations and Posters
 ======
+ -  Workshop on Stochastic Control, Financial Technology, and Machine Learning, The Hong Kong Polytechnic University, 12/2025 (Poster)
  -  The 2nd ETH-HK-Imperial Joint Workshop on Quantitative Finance, Hong Kong, 04/2025
  -  Workshop on Mean Field Models, Control Games, and Related Topics, Tianyuan Mathematical Center in Northwest China, 11/2024
  -  Recent Advances on Quantitative Finance, The Hong Kong Polytechnic University, 08/2023
