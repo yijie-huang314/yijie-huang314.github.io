@@ -31,7 +31,7 @@ Journal Publications
 ======
 
 **[7]**  Optimal consumption under relaxed benchmark tracking and consumption drawdown constraint. (with Lijun Bo, Kaixin Yan and Xiang Yu)
-***SIAM Journal on Financial Mathematics***,  forthcoming,  2025.  [[ArXiv](https://www.arxiv.org/abs/2410.16611)]
+***SIAM Journal on Financial Mathematics***,  forthcoming,  2026.  [[ArXiv](https://www.arxiv.org/abs/2410.16611)]
 
 **[6]**  [An extended Merton problem with relaxed benchmark tracking.](https://onlinelibrary.wiley.com/doi/10.1111/mafi.70015) (with Lijun Bo and Xiang Yu)
 ***Mathematical Finance***, online first,  2025.    [[ArXiv](https://www.arxiv.org/abs/2304.10802)]
