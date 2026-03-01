@@ -16,7 +16,7 @@ Submitted, 2025. [[ArXiv](https://www.arxiv.org/abs/2512.04697)]
 
 **[10]**  Mean field game of optimal tracking portfolio. (with Lijun Bo and Xiang Yu)
 
-Reject and Resubmit with ***IEEE Transactions on Automatic Control***, 2025. [[ArXiv](https://www.arxiv.org/abs/2505.01858)]
+Conditionally accepted as paper with ***IEEE Transactions on Automatic Control***, 2025. [[ArXiv](https://www.arxiv.org/abs/2505.01858)]
 
 **[9]**  Optimal consumption under adjustment costs with respect to multiple reference levels. (with Kaixin Yan and Qinyi Zhang)
 
