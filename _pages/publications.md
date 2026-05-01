@@ -10,13 +10,14 @@ author_profile: true
 Preprints
 ======
 
-**[11]**  Continuous-time reinforcement learning for optimal switching over multiple regimes. (with Mengge Li, Xiang Yu and Zhou Zhou)
-
-Submitted, 2025. [[ArXiv](https://www.arxiv.org/abs/2512.04697)]
-
-**[10]**  Optimal consumption under adjustment costs with respect to multiple reference levels. (with Kaixin Yan and Qinyi Zhang)
+**[11]**  Optimal consumption under adjustment costs with respect to multiple reference levels. (with Kaixin Yan and Qinyi Zhang)
 
 Submitted, 2025. [[ArXiv](https://www.arxiv.org/abs/2503.18443)]
+
+**[10]**  Continuous-time reinforcement learning for optimal switching over multiple regimes. (with Mengge Li, Xiang Yu and Zhou Zhou)
+
+Major revision with  ***Finance and Stochastics***, 2025. [[ArXiv](https://www.arxiv.org/abs/2512.04697)]
+
 
 **[9]**  Mean field game of optimal tracking portfolio. (with Lijun Bo and Xiang Yu)
 
