@@ -9,6 +9,9 @@ author_profile: true
 
 Preprints
 ======
+**[12]**  Optimal consumption and retirement time under shortfall risk measure. (with Lijun Bo and Tingting Zhang)
+
+Submitted, 2026.
 
 **[11]**  Optimal consumption under adjustment costs with respect to multiple reference levels. (with Kaixin Yan and Qinyi Zhang)
 
@@ -61,3 +64,4 @@ Research Presentations and Posters
  -  Workshop on Mean Field Models, Control Games, and Related Topics, Tianyuan Mathematical Center in Northwest China, 11/2024
  -  Recent Advances on Quantitative Finance, The Hong Kong Polytechnic University, 08/2023
  -  10th Annual meeting of Financial Engineering and Financial Risk Management Branch, Chengdu, 07/2021
+ -  Symposium on Stochastic Systems, Control, and Games, Xi'an, 05/2026
