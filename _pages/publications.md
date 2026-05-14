@@ -29,7 +29,7 @@ Conditionally accepted as paper with ***IEEE Transactions on Automatic Control**
 
 **[8]**  Continuous-time q-learning for jump-diffusion models under Tsallis entropy. (with Lijun Bo, Xiang Yu and Tingting Zhang)
 
-Major revision with  ***Mathematics and Financial Economics***, 2024. [[ArXiv](https://www.arxiv.org/abs/2407.03888)]
+Minor revision with  ***Mathematics and Financial Economics***, 2024. [[ArXiv](https://www.arxiv.org/abs/2407.03888)]
 
 
 Journal Publications
