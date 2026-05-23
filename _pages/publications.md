@@ -41,7 +41,6 @@ Journal Publications
 **[6]**  [An extended Merton problem with relaxed benchmark tracking.](https://onlinelibrary.wiley.com/doi/10.1111/mafi.70015) (with Lijun Bo and Xiang Yu)
 ***Mathematical Finance***, 36(2): 422-448,  2026.    [[ArXiv](https://www.arxiv.org/abs/2304.10802)]
 
-
 **[5]**  [Optimal inventory control with state dependent jumps.](https://www.cambridge.org/core/journals/advances-in-applied-probability/article/abs/optimal-inventory-control-with-statedependent-jumps/DDA24724F437DFA641DD6EFC01759919) (with Lijun Bo)
 ***Advances in Applied Probability***,  57(4): 1360-1391,  2025.   
 
@@ -59,6 +58,7 @@ Journal Publications
 
 Research Presentations and Posters
 ======
+ -  The Tenth PKU-NUS Annual International Conference on Quantitative Finance and Economics, Shenzhen, 05/2026
  -  Symposium on Stochastic Systems, Control, and Games, Xi'an, 05/2026
  -  Workshop on Stochastic Control, Financial Technology, and Machine Learning, The Hong Kong Polytechnic University, 12/2025 (Poster)
  -  The 2nd ETH-HK-Imperial Joint Workshop on Quantitative Finance, Hong Kong, 04/2025
