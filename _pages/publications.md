@@ -13,7 +13,7 @@ Preprints
 
 Submitted, 2026. [[ArXiv]]
 
-**[12]**  Optimal consumption and retirement time under shortfall risk measure. (with Xin Guo and Xiang Yu)
+**[12]**  Deterministic policy gradient for learning equilibrium in time-inconsistent control problems. (with Xin Guo and Xiang Yu)
 
 Submitted, 2026. [[ArXiv](https://www.arxiv.org/abs/2606.11798)]
 
