@@ -9,9 +9,13 @@ author_profile: true
 
 Preprints
 ======
-**[12]**  Optimal consumption and retirement time under shortfall risk measure. (with Lijun Bo and Tingting Zhang)
+**[13]**  Optimal consumption and retirement time under shortfall risk measure. (with Lijun Bo and Tingting Zhang)
 
-Submitted, 2026.
+Submitted, 2026. [[ArXiv]]
+
+**[12]**  Optimal consumption and retirement time under shortfall risk measure. (with Xin Guo and Xiang Yu)
+
+Submitted, 2026. [[ArXiv](https://www.arxiv.org/abs/2606.11798)]
 
 **[11]**  Optimal consumption under adjustment costs with respect to multiple reference levels. (with Kaixin Yan and Qinyi Zhang)
 
