@@ -31,7 +31,7 @@ Major revision with  ***Finance and Stochastics***, 2025. [[ArXiv](https://www.a
 Conditionally accepted as paper with ***IEEE Transactions on Automatic Control***, 2025. [[ArXiv](https://www.arxiv.org/abs/2505.01858)]
 
 
-**[8]**  Continuous-time q-learning for jump-diffusion models under Tsallis entropy. (with Lijun Bo, Xiang Yu and Tingting Zhang)
+**[8]**  [Continuous-time q-learning for jump-diffusion models under Tsallis entropy.][(https://www.arxiv.org/abs/2407.03888)] (with Lijun Bo, Xiang Yu and Tingting Zhang)
 
 Minor revision with  ***Mathematics and Financial Economics***, 2024. [[ArXiv](https://www.arxiv.org/abs/2407.03888)]
 
