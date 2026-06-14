@@ -9,27 +9,15 @@ author_profile: true
 
 Preprints
 ======
-**[13]**  Optimal consumption and retirement time under shortfall risk measure. (with Lijun Bo and Tingting Zhang)
+**[13]**  Optimal consumption and retirement time under shortfall risk measure. (with Lijun Bo and Tingting Zhang) Submitted, 2026. [ArXiv]
 
-Submitted, 2026. [[ArXiv]]
+**[12]**  [Deterministic policy gradient for learning equilibrium in time-inconsistent control problems.](https://www.arxiv.org/abs/2606.11798) (with Xin Guo and Xiang Yu)  Submitted, 2026. [[ArXiv](https://www.arxiv.org/abs/2606.11798)]
 
-**[12]**  Deterministic policy gradient for learning equilibrium in time-inconsistent control problems. (with Xin Guo and Xiang Yu)
+**[11]**  [Optimal consumption under adjustment costs with respect to multiple reference levels.](https://www.arxiv.org/abs/2503.18443) (with Kaixin Yan and Qinyi Zhang)  Submitted, 2025. [[ArXiv](https://www.arxiv.org/abs/2503.18443)]
 
-Submitted, 2026. [[ArXiv](https://www.arxiv.org/abs/2606.11798)]
+**[10]**  [Continuous-time reinforcement learning for optimal switching over multiple regimes.](https://www.arxiv.org/abs/2512.04697) (with Mengge Li, Xiang Yu and Zhou Zhou)  Major revision with  ***Finance and Stochastics***, 2025. [[ArXiv](https://www.arxiv.org/abs/2512.04697)]
 
-**[11]**  Optimal consumption under adjustment costs with respect to multiple reference levels. (with Kaixin Yan and Qinyi Zhang)
-
-Submitted, 2025. [[ArXiv](https://www.arxiv.org/abs/2503.18443)]
-
-**[10]**  Continuous-time reinforcement learning for optimal switching over multiple regimes. (with Mengge Li, Xiang Yu and Zhou Zhou)
-
-Major revision with  ***Finance and Stochastics***, 2025. [[ArXiv](https://www.arxiv.org/abs/2512.04697)]
-
-
-**[9]**  Mean field game of optimal tracking portfolio. (with Lijun Bo and Xiang Yu)
-
-Conditionally accepted as paper with ***IEEE Transactions on Automatic Control***, 2025. [[ArXiv](https://www.arxiv.org/abs/2505.01858)]
-
+**[9]**  [Mean field game of optimal tracking portfolio.](https://www.arxiv.org/abs/2505.01858) (with Lijun Bo and Xiang Yu) Conditionally accepted as paper with ***IEEE Transactions on Automatic Control***, 2025. [[ArXiv](https://www.arxiv.org/abs/2505.01858)]
 
 **[8]**  [Continuous-time q-learning for jump-diffusion models under Tsallis entropy.](https://www.arxiv.org/abs/2407.03888) (with Lijun Bo, Xiang Yu and Tingting Zhang)  Minor revision with  ***Mathematics and Financial Economics***, 2024. [[ArXiv](https://www.arxiv.org/abs/2407.03888)]
 
