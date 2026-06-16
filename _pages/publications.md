@@ -19,11 +19,11 @@ Preprints
 
 **[9]**  [Mean field game of optimal tracking portfolio.](https://www.arxiv.org/abs/2505.01858) (with Lijun Bo and Xiang Yu) Conditionally accepted as paper with ***IEEE Transactions on Automatic Control***, 2025. [[ArXiv](https://www.arxiv.org/abs/2505.01858)]
 
-**[8]**  [Continuous-time q-learning for jump-diffusion models under Tsallis entropy.](https://www.arxiv.org/abs/2407.03888) (with Lijun Bo, Xiang Yu and Tingting Zhang)  Minor revision with  ***Mathematics and Financial Economics***, 2024. [[ArXiv](https://www.arxiv.org/abs/2407.03888)]
-
 
 Journal Publications
 ======
+**[8]**  [Continuous-time q-learning for jump-diffusion models under Tsallis entropy.](https://www.arxiv.org/abs/2407.03888) (with Lijun Bo, Xiang Yu and Tingting Zhang)  
+***Mathematics and Financial Economics***, forthcoming,  2026. [[ArXiv](https://www.arxiv.org/abs/2407.03888)]
 
 **[7]**  [Optimal consumption under relaxed benchmark tracking and consumption drawdown constraint.](https://epubs.siam.org/doi/10.1137/25M1728375) (with Lijun Bo, Kaixin Yan and Xiang Yu) 
 ***SIAM Journal on Financial Mathematics***, 17(1): 78-117, 2026.  [[ArXiv](https://www.arxiv.org/abs/2410.16611)]
