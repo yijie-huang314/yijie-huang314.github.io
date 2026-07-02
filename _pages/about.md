@@ -13,7 +13,7 @@ I am a postdoctral fellow in the Department of Applied Mathematics at The Hong K
 
 I obtained my Ph.D. in math from University of Science and Technology of China in June 2025, supervised by Prof. [Lijun Bo](https://bolijun.github.io/).
 
-For further information, please see  [CV page](../assets/Huang_s_CV.pdf).(updated 2026-01)
+For further information, please see  [CV page](../assets/Huang_s_CV.pdf).(updated 2026-07)
 
 
 Research Interests
