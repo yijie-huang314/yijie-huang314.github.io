@@ -22,7 +22,7 @@ Preprints
 
 Journal Publications
 ======
-**[8]**  [Continuous-time q-learning for jump-diffusion models under Tsallis entropy.](https://www.arxiv.org/abs/2407.03888) (with Lijun Bo, Xiang Yu and Tingting Zhang)  ***Mathematics and Financial Economics***, forthcoming,  2026. [[ArXiv](https://www.arxiv.org/abs/2407.03888)]
+**[8]**  [Continuous-time q-learning for jump-diffusion models under Tsallis entropy.](https://doi.org/10.1007/s11579-026-00419-4) (with Lijun Bo, Xiang Yu and Tingting Zhang)  ***Mathematics and Financial Economics***, online first,  2026. [[ArXiv](https://www.arxiv.org/abs/2407.03888)]
 
 **[7]**  [Optimal consumption under relaxed benchmark tracking and consumption drawdown constraint.](https://epubs.siam.org/doi/10.1137/25M1728375) (with Lijun Bo, Kaixin Yan and Xiang Yu)  ***SIAM Journal on Financial Mathematics***, 17(1): 78-117, 2026.  [[ArXiv](https://www.arxiv.org/abs/2410.16611)]
 
