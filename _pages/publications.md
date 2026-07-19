@@ -9,6 +9,8 @@ author_profile: true
 
 Preprints
 ======
+**[14]**  Dynamic pricing for a two-sided data market platform. (with Lijun Bo and Dongfang Yang) Submitted, 2026. [ArXiv]
+
 **[13]**  [Optimal consumption and retirement time under shortfall risk measure.](https://arxiv.org/abs/2606.18935) (with Lijun Bo and Tingting Zhang) Submitted, 2026. [[ArXiv](https://arxiv.org/abs/2606.18935)]
 
 **[12]**  [Deterministic policy gradient for learning equilibrium in time-inconsistent control problems.](https://www.arxiv.org/abs/2606.11798) (with Xin Guo and Xiang Yu)  Submitted, 2026. [[ArXiv](https://www.arxiv.org/abs/2606.11798)]
