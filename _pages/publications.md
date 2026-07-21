@@ -9,7 +9,7 @@ author_profile: true
 
 Preprints
 ======
-**[14]**  Dynamic pricing for a two-sided data market platform. (with Lijun Bo and Dongfang Yang) Submitted, 2026. [ArXiv]
+**[14]**  [Dynamic pricing for a two-sided data market platform.](https://arxiv.org/abs/2607.17119) (with Lijun Bo and Dongfang Yang) Submitted, 2026. [[ArXiv](https://arxiv.org/abs/2607.17119)]
 
 **[13]**  [Optimal consumption and retirement time under shortfall risk measure.](https://arxiv.org/abs/2606.18935) (with Lijun Bo and Tingting Zhang) Submitted, 2026. [[ArXiv](https://arxiv.org/abs/2606.18935)]
 
