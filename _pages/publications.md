@@ -9,6 +9,8 @@ author_profile: true
 
 Preprints
 ======
+**[15]**  Convergence of policy iteration for entropy-regularized mean-field control problems with centralized policy. (with Jinxin Li) Submitted, 2026.
+
 **[14]**  [Dynamic pricing for a two-sided data market platform.](https://arxiv.org/abs/2607.17119) (with Lijun Bo and Dongfang Yang) Submitted, 2026. [[ArXiv](https://arxiv.org/abs/2607.17119)]
 
 **[13]**  [Optimal consumption and retirement time under shortfall risk measure.](https://arxiv.org/abs/2606.18935) (with Lijun Bo and Tingting Zhang) Submitted, 2026. [[ArXiv](https://arxiv.org/abs/2606.18935)]
