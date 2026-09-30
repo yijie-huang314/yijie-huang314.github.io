@@ -9,6 +9,8 @@ author_profile: true
 
 Preprints
 ======
+**[16]**  Model-free reinforcement learning for continuous time and state: a stochastic maximum principle approach. (with Lijun Bo and Jingfei Wang) Submitted, 2026. [[ArXiv]]
+
 **[15]**  Convergence of policy iteration for entropy-regularized mean-field control problems with centralized policy. (with Jinxin Li) Submitted, 2026.
 
 **[14]**  [Dynamic pricing for a two-sided data market platform.](https://arxiv.org/abs/2607.17119) (with Lijun Bo and Dongfang Yang) Submitted, 2026. [[ArXiv](https://arxiv.org/abs/2607.17119)]
