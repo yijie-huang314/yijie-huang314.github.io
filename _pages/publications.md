@@ -9,7 +9,7 @@ author_profile: true
 
 Preprints
 ======
-**[16]**  Model-free reinforcement learning for continuous time and state: a stochastic maximum principle approach. (with Lijun Bo and Jingfei Wang) Submitted, 2026. [[ArXiv]]
+**[16]**  [Model-free reinforcement learning for continuous time and state: a stochastic maximum principle approach.](https://arxiv.org/abs/2609.38745) (with Lijun Bo and Jingfei Wang) Submitted, 2026. [[ArXiv](https://arxiv.org/abs/2609.38745)]
 
 **[15]**  Convergence of policy iteration for entropy-regularized mean-field control problems with centralized policy. (with Jinxin Li) Submitted, 2026.
 
