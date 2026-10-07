@@ -19,7 +19,7 @@ Preprints
 
 **[12]**  [Deterministic policy gradient for learning equilibrium in time-inconsistent control problems.](https://www.arxiv.org/abs/2606.11798) (with Xin Guo and Xiang Yu)  Submitted, 2026. [[ArXiv](https://www.arxiv.org/abs/2606.11798)]
 
-**[11]**  [Optimal consumption under adjustment costs with respect to multiple reference levels.](https://www.arxiv.org/abs/2503.18443) (with Kaixin Yan and Qinyi Zhang)  Submitted, 2025. [[ArXiv](https://www.arxiv.org/abs/2503.18443)]
+**[11]**  [Optimal consumption under adjustment costs with respect to multiple reference levels.](https://www.arxiv.org/abs/2503.18443) (with Kaixin Yan and Qinyi Zhang)  Minor revision with  ***Frontiers of Mathematical Finance***, 2025. [[ArXiv](https://www.arxiv.org/abs/2503.18443)]
 
 **[10]**  [Continuous-time reinforcement learning for optimal switching over multiple regimes.](https://www.arxiv.org/abs/2512.04697) (with Mengge Li, Xiang Yu and Zhou Zhou)  Minor revision with  ***Finance and Stochastics***, 2025. [[ArXiv](https://www.arxiv.org/abs/2512.04697)]
 
