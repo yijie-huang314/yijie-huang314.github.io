@@ -9,7 +9,7 @@ author_profile: true
 
 Preprints
 ======
-**[17]**  Boundary-aware reinforcement learning for hypercube state spaces via deterministic policy gradient. (with Lijun Bo and Chenhao Lu) Submitted, 2026. [[ArXiv]]
+**[17]**  [Boundary-aware reinforcement learning for hypercube state spaces via deterministic policy gradient.](https://arxiv.org/abs/2610.09712) (with Lijun Bo and Chenhao Lu) Submitted, 2026. [[ArXiv](https://arxiv.org/abs/2610.09712)]
 
 **[16]**  [Model-free reinforcement learning for continuous time and state: a stochastic maximum principle approach.](https://arxiv.org/abs/2609.38745) (with Lijun Bo and Jingfei Wang) Submitted, 2026. [[ArXiv](https://arxiv.org/abs/2609.38745)]
 
