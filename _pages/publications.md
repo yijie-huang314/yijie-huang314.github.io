@@ -28,7 +28,7 @@ Preprints
 
 Journal Publications
 ======
-**[9]**  [Continuous-time reinforcement learning for optimal switching over multiple regimes.](https://www.arxiv.org/abs/2512.04697) (with Mengge Li, Xiang Yu and Zhou Zhou)  ***Finance and Stochastics***, forthcoming， 2026+. [[ArXiv](https://www.arxiv.org/abs/2512.04697)]
+**[9]**  [Continuous-time reinforcement learning for optimal switching over multiple regimes.](https://www.arxiv.org/abs/2512.04697) (with Mengge Li, Xiang Yu and Zhou Zhou)  ***Finance and Stochastics***, forthcoming, 2026+. [[ArXiv](https://www.arxiv.org/abs/2512.04697)]
 
 **[8]**  [Continuous-time q-learning for jump-diffusion models under Tsallis entropy.](https://doi.org/10.1007/s11579-026-00419-4) (with Lijun Bo, Xiang Yu and Tingting Zhang)  ***Mathematics and Financial Economics***,  20: 501–546,  2026. [[ArXiv](https://www.arxiv.org/abs/2407.03888)]
 
