@@ -9,7 +9,7 @@ author_profile: true
 
 Preprints
 ======
-**[18]**  Optimal annuitization, consumption, and investment with costly capital injections. (with Xiaoqing Liang, Jie Xiong and Xiang Yu) Submitted, 2026. [[ArXiv]]
+**[18]**  [Optimal annuitization, consumption, and investment with costly capital injections.](https://arxiv.org/abs/2611.02558) (with Xiaoqing Liang, Jie Xiong and Xiang Yu) Submitted, 2026. [[ArXiv](https://arxiv.org/abs/2611.02558)]
 
 **[17]**  [Boundary-aware reinforcement learning for hypercube state spaces via deterministic policy gradient.](https://arxiv.org/abs/2610.09712) (with Lijun Bo and Chenhao Lu) Submitted, 2026. [[ArXiv](https://arxiv.org/abs/2610.09712)]
 
