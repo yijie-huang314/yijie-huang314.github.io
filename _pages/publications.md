@@ -25,11 +25,11 @@ Preprints
 
 **[11]**  [Optimal consumption under adjustment costs with respect to multiple reference levels.](https://www.arxiv.org/abs/2503.18443) (with Kaixin Yan and Qinyi Zhang)  Minor revision with  ***Frontiers of Mathematical Finance***, 2025. [[ArXiv](https://www.arxiv.org/abs/2503.18443)]
 
-**[10]**  [Mean field game of optimal tracking portfolio.](https://www.arxiv.org/abs/2505.01858) (with Lijun Bo and Xiang Yu) Conditionally accepted as paper with ***IEEE Transactions on Automatic Control***, 2025. [[ArXiv](https://www.arxiv.org/abs/2505.01858)]
-
 
 Journal Publications
 ======
+**[10]**  [Mean field game of optimal tracking portfolio.](https://www.arxiv.org/abs/2505.01858) (with Lijun Bo and Xiang Yu) ***IEEE Transactions on Automatic Control***, forthcoming, 2026+. [[ArXiv](https://www.arxiv.org/abs/2505.01858)]
+
 **[9]**  [Continuous-time reinforcement learning for optimal switching over multiple regimes.](https://www.arxiv.org/abs/2512.04697) (with Mengge Li, Xiang Yu and Zhou Zhou)  ***Finance and Stochastics***, forthcoming, 2026+. [[ArXiv](https://www.arxiv.org/abs/2512.04697)]
 
 **[8]**  [Continuous-time q-learning for jump-diffusion models under Tsallis entropy.](https://doi.org/10.1007/s11579-026-00419-4) (with Lijun Bo, Xiang Yu and Tingting Zhang)  ***Mathematics and Financial Economics***,  20: 501–546,  2026. [[ArXiv](https://www.arxiv.org/abs/2407.03888)]
