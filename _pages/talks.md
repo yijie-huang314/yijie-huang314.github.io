@@ -7,6 +7,7 @@ author_profile: true
 
 Research Presentations and Posters
 ======
+ -  Workshop on the Theory and Applications of Stochastic Processes and Their Control. Dailian, 11/2026
  -  The First Hong Kong-Korea Workshop on Mathematical Finance and Related Topics, Hong Kong, 11/2026
  -  The Tenth PKU-NUS Annual International Conference on Quantitative Finance and Economics, Shenzhen, 05/2026
  -  Symposium on Stochastic Systems, Control, and Games, Xi'an, 05/2026
